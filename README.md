@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live Site ---->](https://naughty-euler-750ea8.netlify.app)
+- Live Site URL: [Click Here](https://naughty-euler-750ea8.netlify.app)
 
 
 ### Built with
